@@ -40,11 +40,38 @@
     </item>
     
     <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome</title>
       <link>/tags/welcome/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/welcome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analysis</title>
+      <link>/tags/analysis/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dataviz</title>
+      <link>/tags/dataviz/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dataviz/</guid>
       <description></description>
     </item>
     

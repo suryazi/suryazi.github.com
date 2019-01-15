@@ -11,6 +11,23 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>ATUS Survey Data</title>
+      <link>/project/atus-survey-data/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/atus-survey-data/</guid>
+      <description>
+
+
+&lt;div id=&#34;data&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Data&lt;/h1&gt;
+&lt;p&gt;Brief explanation of data.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# code to read data&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome!</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
