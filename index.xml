@@ -22,7 +22,32 @@
 &lt;div id=&#34;data&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Data&lt;/h1&gt;
 &lt;p&gt;Brief explanation of data.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# code to read data&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# code to data&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;getting-data&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Getting Data&lt;/h1&gt;
+&lt;p&gt;Brief explanation of Getting data.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# code to getting data&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;cleaning-data&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Cleaning Data&lt;/h1&gt;
+&lt;p&gt;Brief explanation of cleaning data.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# code to clean read data&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;exploratory-data-analysis&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Exploratory Data Analysis&lt;/h1&gt;
+&lt;p&gt;Brief explanation of exploratory data analysis.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# code to do exploratory data analysis&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;data-analysis&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Data Analysis&lt;/h1&gt;
+&lt;p&gt;Brief explanation of data analysis.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# code to do data analysis&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;data-visualization&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Data Visualization&lt;/h1&gt;
+&lt;p&gt;Brief explanation of data visualization&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# code to do data visualization&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
     </item>
